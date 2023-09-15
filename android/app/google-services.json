@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266063333372",
+    "project_id": "rawaaclothes",
+    "storage_bucket": "rawaaclothes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266063333372:android:b4774a3cab57c243245479",
+        "android_client_info": {
+          "package_name": "app.rawaaclothes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH8f1p3FeQ_Pe7rHHk2tOGOXIo50s7tTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
